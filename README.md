@@ -1,4 +1,4 @@
-ilwaukee Housing Price Predictor
+milwaukee Housing Price Predictor
 
 Objective: Developed a machine learning model to predict property prices based on 2025 market data.
 
